@@ -1,4 +1,4 @@
-![logo](https://github.com/SyxThan/MOT/blob/main/10.png)
+![logo](https://github.com/SyxThan/MOT/blob/main/BG.png)
 <h1 align="center">Hi 👋, I'm Sy</h1>
 <h3 align="center">Newbie</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syxthan&label=Profile%20views&color=0e75b6&style=flat" alt="syxthan" /> </p>
